@@ -4,7 +4,7 @@ layout: default
 
 # Julian Busch
 
-I'm currently a PhD student in computer science at the [Database Systems and Data Mining (DBS)](https://www.dbs.ifi.lmu.de/cms/index.html) group at LMU Munich working on various topics in machine learning. My research focuses on learning representations of complex data, including graph data and high-dimensional data, to solve a broad range of problems with varying availability of labels.
+I'm a PhD student in computer science at the [Database Systems and Data Mining (DBS)](https://www.dbs.ifi.lmu.de/cms/index.html) group at LMU Munich working on various topics in machine learning. My research focuses on learning representations of complex data, including graph data and high-dimensional data, to solve a broad range of problems with varying availability of labels.
 
 ---
 
@@ -13,7 +13,7 @@ I'm currently a PhD student in computer science at the [Database Systems and Dat
 04/2016 -- 04/2021 (expected)
 :   **Dr. rer. nat. (PhD) Computer Science**
     
-    Ludwig-Maximilians-Universität München, Munich, Germany  
+    LMU Munich, Munich, Germany  
     *Supervisor: Prof. Dr. Thomas Seidl*
     
 10/2013 -- 03/2016
@@ -22,7 +22,7 @@ I'm currently a PhD student in computer science at the [Database Systems and Dat
     RWTH Aachen University, Aachen, Germany  
         *Minor: Mathematics*  
         *Thesis supervisor: Prof. Dr. Thomas Seidl*  
-<!--        *GPA: 3.9/4.0 (German grading system: 1.30)*-->
+        *GPA: 3.9/4.0 (German grading system: 1.30)*
 
 10/2009 -- 09/2013
 :   **B.Sc. Computer Science**
@@ -30,39 +30,42 @@ I'm currently a PhD student in computer science at the [Database Systems and Dat
     University of Hamburg, Hamburg, Germany  
     *Minor: Applied Bioinformatics*  
     *Thesis supervisor: Prof. Dr. Ulrike von Luxburg*  
-<!--
     *GPA: 4.0/4.0 (German grading system: 1.12)*  
     *Awarded as best bachelor graduate*
--->
 
 ---
 
 ## Experience {#exerience}
 
-since 04/2016
-:   **Research Assistant**
+04/2016 - present
+:   **LMU Munich** - Research Assistant
     
-    Database Systems and Data Mining Group, Ludwig-Maximilians-Universität München, Munich, Germany
-
+    Database Systems and Data Mining Group  
+    *Munich, Germany*
+    
 04/2019 - 09/2019
-:   **Research Intern**
+:   **Siemens Corporate Technology** - Research Intern
     
-    Research Group for Big Data and AI Technology for Business Analytics and Monitoring, Siemens Corporate Technology, Princeton, NJ, USA
+    Research Group for Big Data and AI Technology for Business Analytics and Monitoring  
+    *Princeton, NJ, USA*
     
 11/2018 -- 12/2018
-:   **Visiting Scholar**
+:   **George Mason University** - Visiting Scholar
 
-    Department of Geography and Geoinformation Science, George Mason University, Fairfax, VA, USA
+    Department of Geography and Geoinformation Science  
+    *Fairfax, VA, USA*
     
 05/2015 -- 02/2016
-:   **Student Research Assistant**
+:   **RWTH Aachen University** - Student Research Assistant
 
-    Data Management and Data Exploration Group, Department of Computer Science, RWTH Aachen University, Aachen, Germany
+    Data Management and Data Exploration Group  
+    *Aachen, Germany*
     
 12/2010 -- 03/2011
-:   **Student Teaching Assistant**
+:   **University of Hamburg** - Student Teaching Assistant
 
-    Discrete Mathematics Group, Department of Mathematics, University of Hamburg, Hamburg, Germany
+    Discrete Mathematics Group  
+    *Hamburg, Germany*
 
 ---
 
@@ -80,14 +83,12 @@ Third-party funded research projects at LMU Munich.
 
     IAV Automotive Engineering GmbH
 
-<!--
 Supervised external master theses at LMU Munich.
 
-07/2020 -- 01/2021
+07/2020 -- 01/2021 (expected)
 :   **Federated ClusterGAN: Latent Space Clustering on Decentralized Datasets**
 
     Rohde & Schwarz GmbH & Co. KG  
--->
 
 ---
 
@@ -96,7 +97,7 @@ Supervised external master theses at LMU Munich.
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
 *Busch, J.*, Faerman, E., Schubert, M., and Seidl, T.  
 (under submission)  
-[[pdf]]() [[code]](https://github.com/buschju/sscn)
+[[pdf]](https://arxiv.org/pdf/2009.12875.pdf) [[code]](https://github.com/buschju/sscn)
 
 **Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi- Scale Local Label Distributions**  
 Faerman, E., Borutta, F., *Busch, J.*, and Schubert, M.  
@@ -177,10 +178,6 @@ ongoing
     Master Thesis  
     **Generalized Neighborhood Aggregation for Graph Neural Networks**  
     Bachelor thesis  
-<!--
-    **Scale-Adaptation for Graph Neural Networks**  
-    Bachelor thesis  
--->
     **Federated ClusterGAN: Latent Space Clustering on Decentralized Datasets**  
     Master thesis
 
