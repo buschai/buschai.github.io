@@ -112,7 +112,7 @@ LWDA 2020
 **PushNet: Efficient and Adaptive Neural Message Passing**  
 *Busch, J.*, Pi, J., and Seidl, T.  
 ECAI 2020  
-[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing)
+[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing) [[code]](https://github.com/buschju/pushnet)
 
 **Structural Graph Representations based on Multiscale Local Network Topologies**  
 Borutta, F., *Busch, J.*, Faerman, E., Klink, A., and Schubert, M.  
