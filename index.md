@@ -101,7 +101,7 @@ Supervised external master theses at LMU Munich.
 
 **Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi- Scale Local Label Distributions**  
 Faerman, E., Borutta, F., *Busch, J.*, and Schubert, M.  
-(under submission)  
+WI 2020  
 [[pdf]]()
 
 **Grace – Limiting the Number of Grid Cells for Clustering High-Dimensional Data**  
@@ -122,7 +122,7 @@ WI 2019
 **Semi-Supervised Learning on Graphs Based on Local Label Distributions**  
 Faerman, E., Borutta, F., *Busch, J.*, and Schubert, M.  
 MLG 2018  
-[[pdf]](https://arxiv.org/pdf/1802.05563.pdf)
+[[pdf]](http://www.mlgworkshop.org/2018/papers/MLG2018_paper_8.pdf)
 
 **Towards Learning Structural Node Embeddings using Personalized PageRank**  
 Borutta, F., *Busch, J.*, Faerman, E., and Schubert, M.  
