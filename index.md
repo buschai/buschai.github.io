@@ -101,7 +101,7 @@ Supervised external master theses at LMU Munich.
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
 *Julian Busch*, Evgeniy Faerman, Matthias Schubert, and Thomas Seidl  
 *NeurIPS 2020 Workshop: Self-Supervised Learning - Theory and Practice*  
-[[pdf]](https://arxiv.org/pdf/2009.12875.pdf) [[code]](https://github.com/buschju/sscn)
+[[pdf]](https://sslneuips20.github.io/files/CameraReadys%203-77/4/CameraReady/Siamese_Subspace_Clustering_Networks___WIP_Workshop-3.pdf) [[code]](https://github.com/buschju/sscn)
 
 **Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi- Scale Local Label Distributions**  
 Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
