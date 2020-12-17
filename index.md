@@ -94,39 +94,44 @@ Supervised external master theses at LMU Munich.
 
 ## Publications
 
+**NF-GNN: Network Flow Graph Neural Networks for Network Traffic Based Malware Detection and Classification**  
+*Julian Busch*, Anton Kocheturov, Volker Tresp, and Thomas Seidl  
+*(under submission)*  
+
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
-*Busch, J.*, Faerman, E., Schubert, M., and Seidl, T.  
-(under submission)  
+*Julian Busch*, Evgeniy Faerman, Matthias Schubert, and Thomas Seidl  
+*NeurIPS 2020 Workshop: Self-Supervised Learning - Theory and Practice*  
 [[pdf]](https://arxiv.org/pdf/2009.12875.pdf) [[code]](https://github.com/buschju/sscn)
 
 **Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi- Scale Local Label Distributions**  
-Faerman, E., Borutta, F., *Busch, J.*, and Schubert, M.  
-WI 2020  
+Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
+*2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT'20)*  
+***Best Student Paper Award***  
 [[pdf]]()
 
 **Grace – Limiting the Number of Grid Cells for Clustering High-Dimensional Data**  
-Beer, A., Kazempour, D., *Busch, J.*, Tekles, A., and Seidl, T.  
-LWDA 2020  
-[[pdf]]()
+Anna Beer, Daniyal Kazempour, *Julian Busch*, Alexander Tekles, and Thomas Seidl  
+*2020 Conference on Learning, Knowledge, Data, and Analysis (LWDA'20)*  
+[[pdf]](http://ceur-ws.org/Vol-2738/LWDA2020_paper_11.pdf)
 
 **PushNet: Efficient and Adaptive Neural Message Passing**  
-*Busch, J.*, Pi, J., and Seidl, T.  
-ECAI 2020  
-[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing) [[code]](https://github.com/buschju/pushnet)
+*Julian Busch*, Jiaxing Pi, and Thomas Seidl    
+*24th European Conference on Artificial Intelligence (ECAI'20)*  
+[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing)
 
 **Structural Graph Representations based on Multiscale Local Network Topologies**  
-Borutta, F., *Busch, J.*, Faerman, E., Klink, A., and Schubert, M.  
-WI 2019  
+Felix Borutta, *Julian Busch*, Evgeniy Faerman, Adina Klink, and Matthias Schubert  
+*2019 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT'19)*   
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3350546.3352505)
 
 **Semi-Supervised Learning on Graphs Based on Local Label Distributions**  
-Faerman, E., Borutta, F., *Busch, J.*, and Schubert, M.  
-MLG 2018  
-[[pdf]](http://www.mlgworkshop.org/2018/papers/MLG2018_paper_8.pdf)
+Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
+*14th International Workshop on Mining and Learning with Graphs at ACM SIGKDD 2018 (MLG'18)*  
+[[pdf]](https://arxiv.org/pdf/1802.05563.pdf)
 
 **Towards Learning Structural Node Embeddings using Personalized PageRank**  
-Borutta, F., *Busch, J.*, Faerman, E., and Schubert, M.  
-LWDA 2017  
+Felix Borutta, *Julian Busch*, Evgeniy Faerman, and Matthias Schubert  
+*2017 Conference on Learning, Knowledge, Data, and Analysis (LWDA'17)*  
 [[pdf]](http://ceur-ws.org/Vol-1917/paper05.pdf)
 
 ---
@@ -215,6 +220,7 @@ External reviews for academic conferences, journals and workshops.
 
 - **CIKM** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57688), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=96971&copyownerid=166)
 - **DSAA** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=79862&copyownerid=95858)
+- **ECIR** [2021](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=107975&copyownerid=3098)
 - **ECML-PKDD** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57528), [2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=84495&copyownerid=49896), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=95847&copyownerid=13149)
 - **EDBT** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=67732&copyownerid=103074)
 - **ICDE** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=63168)
