@@ -117,7 +117,7 @@ Anna Beer, Daniyal Kazempour, *Julian Busch*, Alexander Tekles, and Thomas Seidl
 **PushNet: Efficient and Adaptive Neural Message Passing**  
 *Julian Busch*, Jiaxing Pi, and Thomas Seidl    
 *24th European Conference on Artificial Intelligence (ECAI'20)*  
-[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing)
+[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing) [[code]](https://github.com/buschju/pushnet)
 
 **Structural Graph Representations based on Multiscale Local Network Topologies**  
 Felix Borutta, *Julian Busch*, Evgeniy Faerman, Adina Klink, and Matthias Schubert  
