@@ -31,7 +31,7 @@ I’m a PhD student in computer science at the [Database Systems and Data Mining
     *Minor: Applied Bioinformatics*  
     *Thesis supervisor: Prof. Dr. Ulrike von Luxburg*  
     *GPA: 4.0/4.0 (German grading system: 1.12)*  
-    *Awarded as best bachelor graduate*
+    ***Awarded as best bachelor graduate***
 
 ---
 
