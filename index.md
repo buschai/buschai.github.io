@@ -4,7 +4,9 @@ layout: default
 
 # Julian Busch
 
-I’m a PhD student in computer science at the [Database Systems and Data Mining (DBS)](https://www.dbs.ifi.lmu.de/cms/index.html) group at LMU Munich, working on various topics in machine learning. My research focuses on learning representations of complex data, including graphs and high-dimensional data. I have 5+ years of research experience and 2+ years of experience working in industry and with industrial partners.
+I’m a PhD student in computer science at the [Database Systems and Data Mining (DBS)](https://www.dbs.ifi.lmu.de/cms/index.html) group at LMU Munich, working on various topics in machine learning. My research focuses on learning representations of complex data, including graphs and high-dimensional data.
+
+I have 5+ years of research experience and 2+ years of experience working in industry and with industrial partners.
 
 ---
 
