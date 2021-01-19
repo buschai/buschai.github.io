@@ -4,7 +4,9 @@ layout: default
 
 # Julian Busch
 
-I’m a PhD student in computer science at the [Database Systems and Data Mining (DBS)](https://www.dbs.ifi.lmu.de/cms/index.html) group at LMU Munich, working on various topics in machine learning. My research focuses on learning representations of complex data, including graphs and high-dimensional data.
+I’m a PhD student in computer science at the [Database Systems and Data Mining (DBS)](https://www.dbs.ifi.lmu.de/cms/index.html) group at LMU Munich, working on various topics in machine learning. My research focuses on learning representations of complex data, including graphs and high-dimensional data. 
+
+My areas of expertise include, but are not limited to, machine learning, deep learning, data mining, data science, artificial intelligence, big data management and analytics, and algorithm design.
 
 I have 5+ years of research experience and 2+ years of experience working in industry and with industrial partners.
 
@@ -103,7 +105,7 @@ Supervised external master theses at LMU Munich.
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
 *Julian Busch*, Evgeniy Faerman, Matthias Schubert, and Thomas Seidl  
 *NeurIPS 2020 Workshop: Self-Supervised Learning - Theory and Practice*  
-[[pdf]](https://sslneuips20.github.io/files/CameraReadys%203-77/4/CameraReady/Siamese_Subspace_Clustering_Networks___WIP_Workshop-3.pdf) [[code]](https://github.com/buschju/sscn)
+[[pdf]](https://sslneuips20.github.io/files/CameraReadys%203-77/4/CameraReady/Siamese_Subspace_Clustering_Networks___WIP_Workshop-3.pdf) [[poster]](assets/pdf/busch2020sscn_poster.pdf) [[code]](https://github.com/buschju/sscn)
 
 **Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi- Scale Local Label Distributions**  
 Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
@@ -119,7 +121,7 @@ Anna Beer, Daniyal Kazempour, *Julian Busch*, Alexander Tekles, and Thomas Seidl
 **PushNet: Efficient and Adaptive Neural Message Passing**  
 *Julian Busch*, Jiaxing Pi, and Thomas Seidl    
 *24th European Conference on Artificial Intelligence (ECAI'20)*  
-[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing) [[code]](https://github.com/buschju/pushnet)
+[[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[slides]](assets/pdf/busch2020pushnet_slides.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing) [[code]](https://github.com/buschju/pushnet)
 
 **Structural Graph Representations based on Multiscale Local Network Topologies**  
 Felix Borutta, *Julian Busch*, Evgeniy Faerman, Adina Klink, and Matthias Schubert  
@@ -243,5 +245,8 @@ Frameworks
 Tools
 :   Docker, Git, Linux, Slurm
 
+Soft Skills
+:   Completion of the "Self-management, leadership, and teaching skills" program offered by the [LMU Center for Leadership and People Management](https://www.en.peoplemanagement.uni-muenchen.de/services/pm_zertifikat/index.html)
+
 Natural Languages
-:   German (native), English (fluent), Latin (Latinum), Mandarin (beginner), French (beginner)
+:   German (native), English (proficiency), Latin (Latinum), Mandarin (beginner), French (beginner)
