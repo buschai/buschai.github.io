@@ -89,7 +89,7 @@ Third-party funded research projects at LMU Munich.
 
 Supervised external master theses at LMU Munich.
 
-07/2020 -- 01/2021 (expected)
+07/2020 -- 01/2021
 :   **Federated ClusterGAN: Latent Space Clustering on Decentralized Datasets**
 
     Rohde & Schwarz GmbH & Co. KG  
@@ -187,7 +187,9 @@ ongoing
     Master Thesis  
     **Generalized Neighborhood Aggregation for Graph Neural Networks**  
     Bachelor thesis  
-    **Federated ClusterGAN: Latent Space Clustering on Decentralized Datasets**  
+
+2020
+:   **Federated ClusterGAN: Latent Space Clustering on Decentralized Datasets**  
     Master thesis
 
 2019 
@@ -223,6 +225,7 @@ ongoing
 External reviews for academic conferences, journals and workshops.
 
 - **CIKM** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57688), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=96971&copyownerid=166)
+- **DAMI** [2021](https://www.springer.com/journal/10618)
 - **DSAA** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=79862&copyownerid=95858)
 - **ECIR** [2021](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=107975&copyownerid=3098)
 - **ECML-PKDD** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57528), [2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=84495&copyownerid=49896), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=95847&copyownerid=13149)
@@ -246,7 +249,7 @@ Tools
 :   Docker, Git, Linux, Slurm
 
 Soft Skills
-:   Completion of the "Self-management, leadership, and teaching skills" program offered by the [LMU Center for Leadership and People Management](https://www.en.peoplemanagement.uni-muenchen.de/services/pm_zertifikat/index.html)
+:   Certificate of advanced training in self-management, leadership and teaching skills awarded by the [LMU Center for Leadership and People Management](https://www.en.peoplemanagement.uni-muenchen.de/services/pm_zertifikat/index.html)
 
 Natural Languages
 :   German (native), English (proficiency), Latin (Latinum), Mandarin (beginner), French (beginner)
