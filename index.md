@@ -10,6 +10,10 @@ My areas of expertise include, but are not limited to, machine learning, deep le
 
 I have 5+ years of research experience and 2+ years of experience working in industry and with industrial partners.
 
+<p>
+    <div><a href="assets/pdf/cv_julian_busch.pdf" target="_blank"> <i class="fas fa-download"></i> &nbsp;Download CV</a></div>
+</p>
+
 ---
 
 ## Education {#education}
