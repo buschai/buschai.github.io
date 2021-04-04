@@ -105,6 +105,7 @@ Supervised external master theses at LMU Munich.
 **NF-GNN: Network Flow Graph Neural Networks for Network Traffic Based Malware Detection and Classification**  
 *Julian Busch*, Anton Kocheturov, Volker Tresp, and Thomas Seidl  
 *(under submission)*  
+[[pdf]](https://arxiv.org/pdf/2103.03939.pdf)
 
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
 *Julian Busch*, Evgeniy Faerman, Matthias Schubert, and Thomas Seidl  
