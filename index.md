@@ -102,7 +102,7 @@ Supervised external master theses at LMU Munich.
 
 ## Publications
 
-**NF-GNN: Network Flow Graph Neural Networks for Network Traffic Based Malware Detection and Classification**  
+**NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification**  
 *Julian Busch*, Anton Kocheturov, Volker Tresp, and Thomas Seidl  
 *(under submission)*  
 [[pdf]](https://arxiv.org/pdf/2103.03939.pdf)
