@@ -18,7 +18,7 @@ I have 5+ years of research experience and 2+ years of experience working in ind
 
 ## Education {#education}
 
-04/2016 -- 04/2021 (expected)
+04/2016 -- 06/2021 (expected)
 :   **Dr. rer. nat. (PhD) Computer Science**
     
     LMU Munich, Munich, Germany  
@@ -175,11 +175,11 @@ Lecture
 
 **Recent Developments in Data Science**  
 Seminar  
-[Winter 2016](https://www2.dbs.ifi.lmu.de/cms/Hauptseminar_%22Recent_Developments_in_Data_Science%22_WS1617.html), [Summer 2017](https://www2.dbs.ifi.lmu.de/cms/Hauptseminar_%22Recent_Developments_in_Data_Science%22_SS17.html)
+[Winter 2016](https://www2.dbs.ifi.lmu.de/cms/Hauptseminar_%22Recent_Developments_in_Data_Science%22_WS1617.html), [Summer 2017](https://www2.dbs.ifi.lmu.de/cms/Hauptseminar_%22Recent_Developments_in_Data_Science%22_SS17.html), [Summer 2021](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/semrecent221/index.html)
 
 **Software Development Lab**  
 Practical  
-[Summer 2016](https://www2.dbs.ifi.lmu.de/cms/Softwareentwicklungspraktikum_SS_16.html), [Winter 2016](https://www2.dbs.ifi.lmu.de/cms/Softwareentwicklungspraktikum_WS1617.html), [Winter 2020](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/sep2021/index.html)
+[Summer 2016](https://www2.dbs.ifi.lmu.de/cms/Softwareentwicklungspraktikum_SS_16.html), [Winter 2016](https://www2.dbs.ifi.lmu.de/cms/Softwareentwicklungspraktikum_WS1617.html), [Winter 2020](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/sep2021/index.html), [Summer 2021](https://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_bachelor/sep21/index.html)
 
 ---
 
@@ -230,14 +230,14 @@ ongoing
 External reviews for academic conferences, journals and workshops.
 
 - **CIKM** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57688), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=96971&copyownerid=166)
-- **DAMI** [2021](https://www.springer.com/journal/10618)
+- **DAMI** [2019](https://www.springer.com/journal/10618), [2020](https://www.springer.com/journal/10618), [2021](https://www.springer.com/journal/10618)
 - **DSAA** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=79862&copyownerid=95858)
 - **ECIR** [2021](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=107975&copyownerid=3098)
-- **ECML-PKDD** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57528), [2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=84495&copyownerid=49896), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=95847&copyownerid=13149)
 - **EDBT** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=67732&copyownerid=103074)
 - **ICDE** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=63168)
 - **IDEA** [2016](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=53928&copyownerid=50759)
 - **KDD** [2019](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=81734), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=95965&copyownerid=93800)
+- **Machine Learning** [2017](https://www.springer.com/journal/10994)
 - **Pattern Recognition** [2020](https://www.journals.elsevier.com/pattern-recognition)
 
 ---
