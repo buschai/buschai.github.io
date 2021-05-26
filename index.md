@@ -18,7 +18,7 @@ I have 5+ years of research experience and 2+ years of experience working in ind
 
 ## Education {#education}
 
-04/2016 -- 06/2021 (expected)
+04/2016 -- 07/2021 (expected)
 :   **Dr. rer. nat. (PhD) Computer Science**
     
     LMU Munich, Munich, Germany  
@@ -104,43 +104,43 @@ Supervised external master theses at LMU Munich.
 
 **NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification**  
 *Julian Busch*, Anton Kocheturov, Volker Tresp, and Thomas Seidl  
-*(under submission)*  
+*International Conference on Statistical and Scientific Database Management (SSDBM)*, 2020 (accepted)  
 [[pdf]](https://arxiv.org/pdf/2103.03939.pdf)
 
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
 *Julian Busch*, Evgeniy Faerman, Matthias Schubert, and Thomas Seidl  
-*NeurIPS 2020 Workshop: Self-Supervised Learning - Theory and Practice*  
+*NeurIPS Workshop: Self-Supervised Learning - Theory and Practice*, 2020  
 [[pdf]](https://sslneuips20.github.io/files/CameraReadys%203-77/4/CameraReady/Siamese_Subspace_Clustering_Networks___WIP_Workshop-3.pdf) [[poster]](assets/pdf/busch2020sscn_poster.pdf) [[code]](https://github.com/buschju/sscn)
 
 **Ada-LLD: Adaptive Node Similarity for Node Classification Using Multi- Scale Local Label Distributions**  
 Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
-*2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT'20)*  
+*IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)*, 2020  
 ***Best Student Paper Award***  
 [[pdf]]()
 
 **Grace – Limiting the Number of Grid Cells for Clustering High-Dimensional Data**  
 Anna Beer, Daniyal Kazempour, *Julian Busch*, Alexander Tekles, and Thomas Seidl  
-*2020 Conference on Learning, Knowledge, Data, and Analysis (LWDA'20)*  
+*Conference on Learning, Knowledge, Data, and Analysis (LWDA)*, 2020  
 [[pdf]](http://ceur-ws.org/Vol-2738/LWDA2020_paper_11.pdf)
 
 **PushNet: Efficient and Adaptive Neural Message Passing**  
 *Julian Busch*, Jiaxing Pi, and Thomas Seidl    
-*24th European Conference on Artificial Intelligence (ECAI'20)*  
+*European Conference on Artificial Intelligence (ECAI)*, 2020  
 [[pdf]](https://arxiv.org/pdf/2003.02228.pdf) [[slides]](assets/pdf/busch2020pushnet_slides.pdf) [[talk]](https://underline.io/events/24/sessions/241/lecture/1995-pushnet-efficient-and-adaptive-neural-message-passing) [[code]](https://github.com/buschju/pushnet)
 
 **Structural Graph Representations based on Multiscale Local Network Topologies**  
 Felix Borutta, *Julian Busch*, Evgeniy Faerman, Adina Klink, and Matthias Schubert  
-*2019 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT'19)*   
+*IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)*, 2019   
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3350546.3352505)
 
 **Semi-Supervised Learning on Graphs Based on Local Label Distributions**  
 Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
-*14th International Workshop on Mining and Learning with Graphs at ACM SIGKDD 2018 (MLG'18)*  
+*International Workshop on Mining and Learning with Graphs at ACM SIGKDD (MLG)*, 2018  
 [[pdf]](https://arxiv.org/pdf/1802.05563.pdf)
 
 **Towards Learning Structural Node Embeddings using Personalized PageRank**  
 Felix Borutta, *Julian Busch*, Evgeniy Faerman, and Matthias Schubert  
-*2017 Conference on Learning, Knowledge, Data, and Analysis (LWDA'17)*  
+*Conference on Learning, Knowledge, Data, and Analysis (LWDA)*, 2017  
 [[pdf]](http://ceur-ws.org/Vol-1917/paper05.pdf)
 
 ---
@@ -187,13 +187,11 @@ Practical
 
 Bachelor and master thesis supervision at LMU Munich.
 
-ongoing
+2020
 :   **Neural Hough Transform for Subspace Clustering**  
     Master Thesis  
     **Generalized Neighborhood Aggregation for Graph Neural Networks**  
     Bachelor thesis  
-
-2020
 :   **Federated ClusterGAN: Latent Space Clustering on Decentralized Datasets**  
     Master thesis
 
@@ -230,6 +228,7 @@ ongoing
 External reviews for academic conferences, journals and workshops.
 
 - **CIKM** [2017](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=57688), [2020](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=96971&copyownerid=166)
+- **Computers and Security** [2021](https://www.journals.elsevier.com/computers-and-security)
 - **DAMI** [2019](https://www.springer.com/journal/10618), [2020](https://www.springer.com/journal/10618), [2021](https://www.springer.com/journal/10618)
 - **DSAA** [2018](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=79862&copyownerid=95858)
 - **ECIR** [2021](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=107975&copyownerid=3098)
@@ -248,7 +247,7 @@ Languages
 :   C, C++, CSS, HTML, Java, Latex, Markdown, Matlab, Python, R, SQL
 
 Frameworks
-:   Bokeh, Keras, MLflow, Matplotlib, NetworkX, Numba, NumPy, Pandas, PyTorch, PyTorch Geometric, Scikit-Learn, SciPy, Seaborn, Spark, Tensorflow
+:   Bokeh, DGL, Keras, MLflow, Matplotlib, NetworkX, Numba, NumPy, Pandas, PyTorch, PyTorch Geometric, Scikit-Learn, SciPy, Seaborn, Spark, Tensorflow
 
 Tools
 :   Docker, Git, Linux, Slurm
