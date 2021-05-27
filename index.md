@@ -104,7 +104,7 @@ Supervised external master theses at LMU Munich.
 
 **NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification**  
 *Julian Busch*, Anton Kocheturov, Volker Tresp, and Thomas Seidl  
-*International Conference on Statistical and Scientific Database Management (SSDBM)*, 2020 (accepted)  
+*International Conference on Statistical and Scientific Database Management (SSDBM)*, 2021 (accepted)  
 [[pdf]](https://arxiv.org/pdf/2103.03939.pdf)
 
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
