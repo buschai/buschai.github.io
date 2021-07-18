@@ -51,6 +51,12 @@ I have 5+ years of research experience and 2+ years of experience working in ind
     Database Systems and Data Mining Group  
     *Munich, Germany*
     
+05/2021 -- 06/2021
+:   **Kiel University** - Visiting Scholar
+
+    Information Systems and Data Mining Group  
+    *Kiel, Germany*
+    
 04/2019 - 09/2019
 :   **Siemens Corporate Technology** - Research Intern
     
@@ -104,8 +110,9 @@ Supervised external master theses at LMU Munich.
 
 **NF-GNN: Network Flow Graph Neural Networks for Malware Detection and Classification**  
 *Julian Busch*, Anton Kocheturov, Volker Tresp, and Thomas Seidl  
-*International Conference on Statistical and Scientific Database Management (SSDBM)*, 2021 (accepted)  
-[[pdf]](https://arxiv.org/pdf/2103.03939.pdf)
+*International Conference on Statistical and Scientific Database Management (SSDBM)*, 2021  
+***Best Paper Runner-Up Award***  
+[[pdf]](https://arxiv.org/pdf/2103.03939.pdf) 
 
 **Learning Self-Expression Metrics for Scalable and Inductive Subspace Clustering**  
 *Julian Busch*, Evgeniy Faerman, Matthias Schubert, and Thomas Seidl  
@@ -116,7 +123,7 @@ Supervised external master theses at LMU Munich.
 Evgeniy Faerman, Felix Borutta, *Julian Busch*, and Matthias Schubert  
 *IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)*, 2020  
 ***Best Student Paper Award***  
-[[pdf]]()
+[[pdf]](https://ieeexplore.ieee.org/document/9457703)
 
 **Grace – Limiting the Number of Grid Cells for Clustering High-Dimensional Data**  
 Anna Beer, Daniyal Kazempour, *Julian Busch*, Alexander Tekles, and Thomas Seidl  
